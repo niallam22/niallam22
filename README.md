@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Acting house**
 
-- 👨‍💻 My portfolio is available at [niallmoore.netlify.app](niallmoore.netlify.app)
+- 👨‍💻 My portfolio is available at [https://niallmoore.netlify.app](niallmoore.netlify.app)
 
 - 📫 How to reach me **niallam22@gmail.com**
 
