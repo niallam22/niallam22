@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niall</h1>
-<h3 align="center">A full-stack web developer from Ireland</h3>
+<h3 align="center">A full-stack software engineer who loves to build!</h3>
 
 - 🔭 I’m currently working on **Acting house**
 
