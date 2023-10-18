@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on **Acting house**
 
 - 👨‍💻 My portfolio is available at [https://niallmoore.netlify.app](https://niallmoore.netlify.app)
+- [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
 
 - 📫 How to reach me **niallam22@gmail.com**
